@@ -20,7 +20,7 @@ totalMemory: 6.00GiB freeMemory: 4.97GiB
 [ WARN:0] terminating async callback
 ```
 
-NVIDIA gtx 1060 gpu
+NVIDIA gtx 1060 gpu,
 
 
 
